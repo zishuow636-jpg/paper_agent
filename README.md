@@ -66,6 +66,7 @@ Gemini 通过 **Google AI Studio / 项目计费** 限流；免费层对单模型
 
 ```
 Agent/
+├── LICENSE
 ├── .env.example
 ├── requirements.txt
 ├── paper_agent/
@@ -87,4 +88,4 @@ Agent/
 
 ## 许可证
 
-若仓库根目录另有 `LICENSE` 以该文件为准；若无，建议仅作个人学习使用。
+本项目以 **MIT License** 发布，见仓库根目录 [`LICENSE`](LICENSE)。你可自由使用、修改与分发；软件按「原样」提供，不含担保。
